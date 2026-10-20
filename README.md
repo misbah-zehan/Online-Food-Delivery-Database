@@ -150,18 +150,14 @@ Expected row counts: `restaurant` 3, `menus` 10, `customers` 3, `delivery_agents
 Result: `delivered` = 3, `cancelled` = 1.
 
 ### 3. Restaurants with the most orders
-`
+
 
 Result: Pizza point = 2, Burger point = 1, Sushi world = 1.
-
-### 4. Delivery agent assigned to each order
-
 
 ### 5. Revenue per restaurant (delivered orders only)
 
 
 Result: Sushi world = 15.00, Burger point = 10.98, Pizza point = 9.99.
-
 
 ## Concepts Practiced
 
