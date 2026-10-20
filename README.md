@@ -154,7 +154,7 @@ Result: `delivered` = 3, `cancelled` = 1.
 
 Result: Pizza point = 2, Burger point = 1, Sushi world = 1.
 
-### 5. Revenue per restaurant (delivered orders only)
+### 4. Revenue per restaurant (delivered orders only)
 
 
 Result: Sushi world = 15.00, Burger point = 10.98, Pizza point = 9.99.
